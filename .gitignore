@@ -1,4 +1,6 @@
 blood_donation_backend/__pycache__/
 db.sqlite3
 
+donors/__pycache__/
+donors/migrations/
 
