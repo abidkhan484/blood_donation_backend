@@ -4,5 +4,5 @@ from rest_framework import serializers
 class DonorsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Donors
-        fields = ('name', 'bloodGroup', 'phone', 'email', 'lastDonationDate')
+        fields = ('id', 'name', 'bloodGroup', 'phone', 'email', 'lastDonationDate')
 

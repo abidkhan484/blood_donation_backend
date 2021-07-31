@@ -3,4 +3,5 @@ db.sqlite3
 
 donors/__pycache__/
 donors/migrations/
+blood_donation_backend/.env
 
