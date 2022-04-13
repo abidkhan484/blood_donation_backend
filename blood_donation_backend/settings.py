@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'drf_yasg',
 
     'blood_booking',
+    'blood_availability',
 
 ]
 
